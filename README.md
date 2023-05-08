@@ -4,12 +4,12 @@ I‘m a full-stack web developer, If you are looking for a Full Stack Web Develo
 
 ### Connect with me:
 
-[<img target="_blank" align="left" alt="Ajay Prasad Verma | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img target="_blank" align="left" alt="Ajay Prasad Verma | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img target="_blank" align="left" alt="Ajay Prasad Verma | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img target="_blank" align="left" alt="Ajay Prasad Verma | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img target="_blank" align="left" alt="Ajay Prasad Verma | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img target="_blank" align="left" alt="Ajay Prasad Verma | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg" />][upwork]
+[<img target="_blank" align="left" alt="Ajay Prasad Verma | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/google.svg" />][website]
+[<img target="_blank" align="left" alt="Ajay Prasad Verma | Twitter" width="22px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />][twitter]
+[<img target="_blank" align="left" alt="Ajay Prasad Verma | instagram" width="22px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />][instagram]
+[<img target="_blank" align="left" alt="Ajay Prasad Verma | LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />][linkedin]
+[<img target="_blank" align="left" alt="Ajay Prasad Verma | Facebook" width="22px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />][facebook]
+[<img target="_blank" align="left" alt="Ajay Prasad Verma | upwork" width="22px" src="https://www.vectorlogo.zone/logos/upwork/upwork-icon.svg" />][upwork]
 
 
 <br />
@@ -18,20 +18,19 @@ I‘m a full-stack web developer, If you are looking for a Full Stack Web Develo
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools</b>
 
 <p>
-<img src="https://github.com/AjayPrasadVerma/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img src="https://github.com/AjayPrasadVerma/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://github.com/AjayPrasadVerma/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-<img src="https://github.com/AjayPrasadVerma/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/AjayPrasadVerma/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/AjayPrasadVerma/devicon/blob/master/icons/css3/css3-original-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/AjayPrasadVerma/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"  title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
-<img src="https://github.com/AjayPrasadVerma/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/AjayPrasadVerma/devicon/blob/master/icons/express/express-original-wordmark.svg" title="express" alt="express" width="40" height="40"/>&nbsp;
-<img src="https://github.com/AjayPrasadVerma/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongoDB" alt="mongoDB" width="40" height="40"/>&nbsp;
-<img src="https://github.com/AjayPrasadVerma/devicon/blob/master/icons/oracle/oracle-original.svg" title="SQL"  alt="SQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/AjayPrasadVerma/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/jquery/jquery-official.svg" alt="jQuery" width="70" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" title="HTML5" alt="HTML" width="50" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"  title="bootstrap" alt="bootstrap" width="80" height="50"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" title="NodeJS" alt="NodeJS" width="80" height="50"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" title="express" alt="express" width="90" height="50"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" title="mongoDB" alt="mongoDB" width="90" height="60"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
-<img src="https://github.com/AjayPrasadVerma/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </p>
 
 
