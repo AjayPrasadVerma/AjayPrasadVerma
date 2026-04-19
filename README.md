@@ -14,25 +14,6 @@ I‘m a full-stack web developer, If you are looking for a Full Stack Web Develo
 
 <br />
 
----
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools</b>
-
-<p>
-<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/jquery/jquery-official.svg" alt="jQuery" width="70" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" title="HTML5" alt="HTML" width="50" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"  title="bootstrap" alt="bootstrap" width="80" height="50"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" title="NodeJS" alt="NodeJS" width="80" height="50"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" title="express" alt="express" width="90" height="50"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" title="mongoDB" alt="mongoDB" width="90" height="60"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-</p>
-
 
 ---
 
